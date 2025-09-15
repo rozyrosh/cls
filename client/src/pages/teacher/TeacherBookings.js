@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { FaCalendar, FaClock, FaUser, FaStar, FaVideo, FaCheck, FaTimes } from 'react-icons/fa';
+import { FaCalendar, FaClock, FaStar, FaVideo, FaCheck, FaTimes } from 'react-icons/fa';
 import { format } from 'date-fns';
 import api from '../../services/api';
 import toast from 'react-hot-toast';

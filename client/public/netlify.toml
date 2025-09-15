@@ -1,3 +1,4 @@
+# NOTE: Netlify ignores this file in client/public. We'll add a root netlify.toml.
 [[redirects]]
 from="/*"
 to="/index.html"
